@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Osama066](https://github.com/Osama066)
 
+- 📧 osamakhaan4k@gmail.com
+
 - 💬 Ask me about **python & libraries:-numpy,pandas,seaborn,Matplotlib ;SQL ;PowerBI **
 
 
