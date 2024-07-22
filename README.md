@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Osama066&label=Profile%20views&color=0e75b6&style=flat" alt="Osama066" /> </p>
 
-- 🔭 I’m currently working on **AI-caption generator**
+- 🔭 I’m currently working on **Data**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning and GEN AI**
 
 - 👯 I’m looking to collaborate on **ETL project on github**
 
