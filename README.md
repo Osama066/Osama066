@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **ETL project on github**
 
-- 🤝 I’m looking for help with **Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Osama066](https://github.com/Osama066)
 
 - 📧 osamakhaan4k@gmail.com
