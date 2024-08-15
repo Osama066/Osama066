@@ -14,7 +14,6 @@
 
 - 📧 osamakhaan4k@gmail.com
 
-- 💬 Ask me about **python & libraries:-numpy,pandas,seaborn,Matplotlib ;SQL ;PowerBI **
 
 
 <h3 align="left">Languages and Tools:</h3>
