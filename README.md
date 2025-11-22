@@ -10,9 +10,10 @@
 
 - 👯 I’m looking to collaborate on **ETL project on github**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Osama066](https://github.com/Osama066)
+- 📧 Reach out at:osamakhaan4k@gmail.com
 
-- 📧 osamakhaan4k@gmail.com
+
+
 
 
 
