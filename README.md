@@ -19,7 +19,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,tailwind,git,github,tensorflow,pytorch,sklearn,opencv,flask,django,streamlit,mysql,aws,docker" />
 </p>
 
 
