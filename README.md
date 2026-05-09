@@ -18,6 +18,10 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,java,js,react,nodejs,tailwind,photoshop,git,unity,unreal" />
+</p>
 
 <p align="center">
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
