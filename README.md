@@ -20,7 +20,7 @@
 <h3 align="center">Languages and Tools:</h3>
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,tailwind,git,digital ocean" />
+  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,tailwind,git" />
 </p>
 
 
